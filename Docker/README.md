@@ -1,24 +1,3 @@
-## Simple node.js app with docker
-
-
-### Helpful commands
-
-```shell
-docker build . -t simple-app
-```
-
-```shell
-docker run simple-app
-```
-
-```shell
-docker ps
-```
-
-```shell
-docker images
-```
-
 # Docker
 
 Docker is a container runtime that allows developers to build, deploy, and test containerized applications on various platforms.
